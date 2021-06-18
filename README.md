@@ -1,2 +1,3 @@
 # Anomaly-Detection
-Detecting Anomaly Using Deep Learning
+
+Anomaly Detetction in intrusion detection system using deep learning model.
